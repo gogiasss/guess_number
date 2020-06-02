@@ -1,5 +1,7 @@
 import random
 
+#количество попыток
+
 tries = 0
 
 number = random.randint(1, 50)
